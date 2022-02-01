@@ -107,7 +107,7 @@ def main():
     pokemon_list = requestJSONdata()
     print('Done requesting JSON. Start writing to json file...')
     writeToJson(pokemon_list)
-    print('Successfully write to "pokemon.json". Start download sprites')
+    print('Successfully wrote to "pokemon.json". Start downloading sprites...')
     downloadImages()
     print('Download sprites done. Check the sprites folder')
     print('Download utility script completed! Your data is ready. Run the main program from "app.py"')
