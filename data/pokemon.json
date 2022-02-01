@@ -1,0 +1,2390 @@
+[
+    {
+        "name": "bulbasaur",
+        "id": 1,
+        "sprite": "1.png",
+        "height": 70,
+        "weight": 6.9,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+        "evolution_chain": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ]
+    },
+    {
+        "name": "ivysaur",
+        "id": 2,
+        "sprite": "2.png",
+        "height": 100,
+        "weight": 13.0,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "evolution_chain": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ]
+    },
+    {
+        "name": "venusaur",
+        "id": 3,
+        "sprite": "3.png",
+        "height": 200,
+        "weight": 100.0,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+        "evolution_chain": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ]
+    },
+    {
+        "name": "charmander",
+        "id": 4,
+        "sprite": "4.png",
+        "height": 60,
+        "weight": 8.5,
+        "types": [
+            "fire"
+        ],
+        "description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+        "evolution_chain": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ]
+    },
+    {
+        "name": "charmeleon",
+        "id": 5,
+        "sprite": "5.png",
+        "height": 110,
+        "weight": 19.0,
+        "types": [
+            "fire"
+        ],
+        "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+        "evolution_chain": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ]
+    },
+    {
+        "name": "charizard",
+        "id": 6,
+        "sprite": "6.png",
+        "height": 170,
+        "weight": 90.5,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+        "evolution_chain": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ]
+    },
+    {
+        "name": "squirtle",
+        "id": 7,
+        "sprite": "7.png",
+        "height": 50,
+        "weight": 9.0,
+        "types": [
+            "water"
+        ],
+        "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "evolution_chain": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ]
+    },
+    {
+        "name": "wartortle",
+        "id": 8,
+        "sprite": "8.png",
+        "height": 100,
+        "weight": 22.5,
+        "types": [
+            "water"
+        ],
+        "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+        "evolution_chain": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ]
+    },
+    {
+        "name": "blastoise",
+        "id": 9,
+        "sprite": "9.png",
+        "height": 160,
+        "weight": 85.5,
+        "types": [
+            "water"
+        ],
+        "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+        "evolution_chain": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ]
+    },
+    {
+        "name": "caterpie",
+        "id": 10,
+        "sprite": "10.png",
+        "height": 30,
+        "weight": 2.9,
+        "types": [
+            "bug"
+        ],
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "evolution_chain": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ]
+    },
+    {
+        "name": "metapod",
+        "id": 11,
+        "sprite": "11.png",
+        "height": 70,
+        "weight": 9.9,
+        "types": [
+            "bug"
+        ],
+        "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+        "evolution_chain": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ]
+    },
+    {
+        "name": "butterfree",
+        "id": 12,
+        "sprite": "12.png",
+        "height": 110,
+        "weight": 32.0,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+        "evolution_chain": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ]
+    },
+    {
+        "name": "weedle",
+        "id": 13,
+        "sprite": "13.png",
+        "height": 30,
+        "weight": 3.2,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+        "evolution_chain": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ]
+    },
+    {
+        "name": "kakuna",
+        "id": 14,
+        "sprite": "14.png",
+        "height": 60,
+        "weight": 10.0,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+        "evolution_chain": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ]
+    },
+    {
+        "name": "beedrill",
+        "id": 15,
+        "sprite": "15.png",
+        "height": 100,
+        "weight": 29.5,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+        "evolution_chain": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ]
+    },
+    {
+        "name": "pidgey",
+        "id": 16,
+        "sprite": "16.png",
+        "height": 30,
+        "weight": 1.8,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+        "evolution_chain": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ]
+    },
+    {
+        "name": "pidgeotto",
+        "id": 17,
+        "sprite": "17.png",
+        "height": 110,
+        "weight": 30.0,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+        "evolution_chain": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ]
+    },
+    {
+        "name": "pidgeot",
+        "id": 18,
+        "sprite": "18.png",
+        "height": 150,
+        "weight": 39.5,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+        "evolution_chain": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ]
+    },
+    {
+        "name": "rattata",
+        "id": 19,
+        "sprite": "19.png",
+        "height": 30,
+        "weight": 3.5,
+        "types": [
+            "normal"
+        ],
+        "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+        "evolution_chain": [
+            "rattata",
+            "raticate"
+        ]
+    },
+    {
+        "name": "raticate",
+        "id": 20,
+        "sprite": "20.png",
+        "height": 70,
+        "weight": 18.5,
+        "types": [
+            "normal"
+        ],
+        "description": "It uses its whis\u00ad kers to maintain its balance. It apparently slows down if they are cut off.",
+        "evolution_chain": [
+            "rattata",
+            "raticate"
+        ]
+    },
+    {
+        "name": "spearow",
+        "id": 21,
+        "sprite": "21.png",
+        "height": 30,
+        "weight": 2.0,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+        "evolution_chain": [
+            "spearow",
+            "fearow"
+        ]
+    },
+    {
+        "name": "fearow",
+        "id": 22,
+        "sprite": "22.png",
+        "height": 120,
+        "weight": 38.0,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+        "evolution_chain": [
+            "spearow",
+            "fearow"
+        ]
+    },
+    {
+        "name": "ekans",
+        "id": 23,
+        "sprite": "23.png",
+        "height": 200,
+        "weight": 6.9,
+        "types": [
+            "poison"
+        ],
+        "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+        "evolution_chain": [
+            "ekans",
+            "arbok"
+        ]
+    },
+    {
+        "name": "arbok",
+        "id": 24,
+        "sprite": "24.png",
+        "height": 350,
+        "weight": 65.0,
+        "types": [
+            "poison"
+        ],
+        "description": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+        "evolution_chain": [
+            "ekans",
+            "arbok"
+        ]
+    },
+    {
+        "name": "pikachu",
+        "id": 25,
+        "sprite": "25.png",
+        "height": 40,
+        "weight": 6.0,
+        "types": [
+            "electric"
+        ],
+        "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+        "evolution_chain": [
+            "pichu",
+            "pikachu",
+            "raichu"
+        ]
+    },
+    {
+        "name": "raichu",
+        "id": 26,
+        "sprite": "26.png",
+        "height": 80,
+        "weight": 30.0,
+        "types": [
+            "electric"
+        ],
+        "description": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+        "evolution_chain": [
+            "pichu",
+            "pikachu",
+            "raichu"
+        ]
+    },
+    {
+        "name": "sandshrew",
+        "id": 27,
+        "sprite": "27.png",
+        "height": 60,
+        "weight": 12.0,
+        "types": [
+            "ground"
+        ],
+        "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+        "evolution_chain": [
+            "sandshrew",
+            "sandslash"
+        ]
+    },
+    {
+        "name": "sandslash",
+        "id": 28,
+        "sprite": "28.png",
+        "height": 100,
+        "weight": 29.5,
+        "types": [
+            "ground"
+        ],
+        "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+        "evolution_chain": [
+            "sandshrew",
+            "sandslash"
+        ]
+    },
+    {
+        "name": "nidoran-f",
+        "id": 29,
+        "sprite": "29.png",
+        "height": 40,
+        "weight": 7.0,
+        "types": [
+            "poison"
+        ],
+        "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+        "evolution_chain": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ]
+    },
+    {
+        "name": "nidorina",
+        "id": 30,
+        "sprite": "30.png",
+        "height": 80,
+        "weight": 20.0,
+        "types": [
+            "poison"
+        ],
+        "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+        "evolution_chain": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ]
+    },
+    {
+        "name": "nidoqueen",
+        "id": 31,
+        "sprite": "31.png",
+        "height": 130,
+        "weight": 60.0,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+        "evolution_chain": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ]
+    },
+    {
+        "name": "nidoran-m",
+        "id": 32,
+        "sprite": "32.png",
+        "height": 50,
+        "weight": 9.0,
+        "types": [
+            "poison"
+        ],
+        "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+        "evolution_chain": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ]
+    },
+    {
+        "name": "nidorino",
+        "id": 33,
+        "sprite": "33.png",
+        "height": 90,
+        "weight": 19.5,
+        "types": [
+            "poison"
+        ],
+        "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+        "evolution_chain": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ]
+    },
+    {
+        "name": "nidoking",
+        "id": 34,
+        "sprite": "34.png",
+        "height": 140,
+        "weight": 62.0,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+        "evolution_chain": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ]
+    },
+    {
+        "name": "clefairy",
+        "id": 35,
+        "sprite": "35.png",
+        "height": 60,
+        "weight": 7.5,
+        "types": [
+            "fairy"
+        ],
+        "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+        "evolution_chain": [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ]
+    },
+    {
+        "name": "clefable",
+        "id": 36,
+        "sprite": "36.png",
+        "height": 130,
+        "weight": 40.0,
+        "types": [
+            "fairy"
+        ],
+        "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+        "evolution_chain": [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ]
+    },
+    {
+        "name": "vulpix",
+        "id": 37,
+        "sprite": "37.png",
+        "height": 60,
+        "weight": 9.9,
+        "types": [
+            "fire"
+        ],
+        "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+        "evolution_chain": [
+            "vulpix",
+            "ninetales"
+        ]
+    },
+    {
+        "name": "ninetales",
+        "id": 38,
+        "sprite": "38.png",
+        "height": 110,
+        "weight": 19.9,
+        "types": [
+            "fire"
+        ],
+        "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+        "evolution_chain": [
+            "vulpix",
+            "ninetales"
+        ]
+    },
+    {
+        "name": "jigglypuff",
+        "id": 39,
+        "sprite": "39.png",
+        "height": 50,
+        "weight": 5.5,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+        "evolution_chain": [
+            "igglybuff",
+            "jigglypuff",
+            "wigglytuff"
+        ]
+    },
+    {
+        "name": "wigglytuff",
+        "id": 40,
+        "sprite": "40.png",
+        "height": 100,
+        "weight": 12.0,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+        "evolution_chain": [
+            "igglybuff",
+            "jigglypuff",
+            "wigglytuff"
+        ]
+    },
+    {
+        "name": "zubat",
+        "id": 41,
+        "sprite": "41.png",
+        "height": 80,
+        "weight": 7.5,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+        "evolution_chain": [
+            "zubat",
+            "golbat",
+            "crobat"
+        ]
+    },
+    {
+        "name": "golbat",
+        "id": 42,
+        "sprite": "42.png",
+        "height": 160,
+        "weight": 55.0,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+        "evolution_chain": [
+            "zubat",
+            "golbat",
+            "crobat"
+        ]
+    },
+    {
+        "name": "oddish",
+        "id": 43,
+        "sprite": "43.png",
+        "height": 50,
+        "weight": 5.4,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+        "evolution_chain": [
+            "oddish",
+            "gloom",
+            "vileplume"
+        ]
+    },
+    {
+        "name": "gloom",
+        "id": 44,
+        "sprite": "44.png",
+        "height": 80,
+        "weight": 8.6,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+        "evolution_chain": [
+            "oddish",
+            "gloom",
+            "vileplume"
+        ]
+    },
+    {
+        "name": "vileplume",
+        "id": 45,
+        "sprite": "45.png",
+        "height": 120,
+        "weight": 18.6,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+        "evolution_chain": [
+            "oddish",
+            "gloom",
+            "vileplume"
+        ]
+    },
+    {
+        "name": "paras",
+        "id": 46,
+        "sprite": "46.png",
+        "height": 30,
+        "weight": 5.4,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+        "evolution_chain": [
+            "paras",
+            "parasect"
+        ]
+    },
+    {
+        "name": "parasect",
+        "id": 47,
+        "sprite": "47.png",
+        "height": 100,
+        "weight": 29.5,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+        "evolution_chain": [
+            "paras",
+            "parasect"
+        ]
+    },
+    {
+        "name": "venonat",
+        "id": 48,
+        "sprite": "48.png",
+        "height": 100,
+        "weight": 30.0,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+        "evolution_chain": [
+            "venonat",
+            "venomoth"
+        ]
+    },
+    {
+        "name": "venomoth",
+        "id": 49,
+        "sprite": "49.png",
+        "height": 150,
+        "weight": 12.5,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+        "evolution_chain": [
+            "venonat",
+            "venomoth"
+        ]
+    },
+    {
+        "name": "diglett",
+        "id": 50,
+        "sprite": "50.png",
+        "height": 20,
+        "weight": 0.8,
+        "types": [
+            "ground"
+        ],
+        "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+        "evolution_chain": [
+            "diglett",
+            "dugtrio"
+        ]
+    },
+    {
+        "name": "dugtrio",
+        "id": 51,
+        "sprite": "51.png",
+        "height": 70,
+        "weight": 33.3,
+        "types": [
+            "ground"
+        ],
+        "description": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+        "evolution_chain": [
+            "diglett",
+            "dugtrio"
+        ]
+    },
+    {
+        "name": "meowth",
+        "id": 52,
+        "sprite": "52.png",
+        "height": 40,
+        "weight": 4.2,
+        "types": [
+            "normal"
+        ],
+        "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+        "evolution_chain": [
+            "meowth",
+            "persian"
+        ]
+    },
+    {
+        "name": "persian",
+        "id": 53,
+        "sprite": "53.png",
+        "height": 100,
+        "weight": 32.0,
+        "types": [
+            "normal"
+        ],
+        "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+        "evolution_chain": [
+            "meowth",
+            "persian"
+        ]
+    },
+    {
+        "name": "psyduck",
+        "id": 54,
+        "sprite": "54.png",
+        "height": 80,
+        "weight": 19.6,
+        "types": [
+            "water"
+        ],
+        "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+        "evolution_chain": [
+            "psyduck",
+            "golduck"
+        ]
+    },
+    {
+        "name": "golduck",
+        "id": 55,
+        "sprite": "55.png",
+        "height": 170,
+        "weight": 76.6,
+        "types": [
+            "water"
+        ],
+        "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+        "evolution_chain": [
+            "psyduck",
+            "golduck"
+        ]
+    },
+    {
+        "name": "mankey",
+        "id": 56,
+        "sprite": "56.png",
+        "height": 50,
+        "weight": 28.0,
+        "types": [
+            "fighting"
+        ],
+        "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+        "evolution_chain": [
+            "mankey",
+            "primeape"
+        ]
+    },
+    {
+        "name": "primeape",
+        "id": 57,
+        "sprite": "57.png",
+        "height": 100,
+        "weight": 32.0,
+        "types": [
+            "fighting"
+        ],
+        "description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+        "evolution_chain": [
+            "mankey",
+            "primeape"
+        ]
+    },
+    {
+        "name": "growlithe",
+        "id": 58,
+        "sprite": "58.png",
+        "height": 70,
+        "weight": 19.0,
+        "types": [
+            "fire"
+        ],
+        "description": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+        "evolution_chain": [
+            "growlithe",
+            "arcanine"
+        ]
+    },
+    {
+        "name": "arcanine",
+        "id": 59,
+        "sprite": "59.png",
+        "height": 190,
+        "weight": 155.0,
+        "types": [
+            "fire"
+        ],
+        "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+        "evolution_chain": [
+            "growlithe",
+            "arcanine"
+        ]
+    },
+    {
+        "name": "poliwag",
+        "id": 60,
+        "sprite": "60.png",
+        "height": 60,
+        "weight": 12.4,
+        "types": [
+            "water"
+        ],
+        "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+        "evolution_chain": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath"
+        ]
+    },
+    {
+        "name": "poliwhirl",
+        "id": 61,
+        "sprite": "61.png",
+        "height": 100,
+        "weight": 20.0,
+        "types": [
+            "water"
+        ],
+        "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+        "evolution_chain": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath"
+        ]
+    },
+    {
+        "name": "poliwrath",
+        "id": 62,
+        "sprite": "62.png",
+        "height": 130,
+        "weight": 54.0,
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "description": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+        "evolution_chain": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath"
+        ]
+    },
+    {
+        "name": "abra",
+        "id": 63,
+        "sprite": "63.png",
+        "height": 90,
+        "weight": 19.5,
+        "types": [
+            "psychic"
+        ],
+        "description": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+        "evolution_chain": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ]
+    },
+    {
+        "name": "kadabra",
+        "id": 64,
+        "sprite": "64.png",
+        "height": 130,
+        "weight": 56.5,
+        "types": [
+            "psychic"
+        ],
+        "description": "It emits special alpha waves from its body that induce headaches just by being close by.",
+        "evolution_chain": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ]
+    },
+    {
+        "name": "alakazam",
+        "id": 65,
+        "sprite": "65.png",
+        "height": 150,
+        "weight": 48.0,
+        "types": [
+            "psychic"
+        ],
+        "description": "Its brain can out\u00ad perform a super\u00ad computer. Its intelligence quotient is said to be 5,000.",
+        "evolution_chain": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ]
+    },
+    {
+        "name": "machop",
+        "id": 66,
+        "sprite": "66.png",
+        "height": 80,
+        "weight": 19.5,
+        "types": [
+            "fighting"
+        ],
+        "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+        "evolution_chain": [
+            "machop",
+            "machoke",
+            "machamp"
+        ]
+    },
+    {
+        "name": "machoke",
+        "id": 67,
+        "sprite": "67.png",
+        "height": 150,
+        "weight": 70.5,
+        "types": [
+            "fighting"
+        ],
+        "description": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+        "evolution_chain": [
+            "machop",
+            "machoke",
+            "machamp"
+        ]
+    },
+    {
+        "name": "machamp",
+        "id": 68,
+        "sprite": "68.png",
+        "height": 160,
+        "weight": 130.0,
+        "types": [
+            "fighting"
+        ],
+        "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+        "evolution_chain": [
+            "machop",
+            "machoke",
+            "machamp"
+        ]
+    },
+    {
+        "name": "bellsprout",
+        "id": 69,
+        "sprite": "69.png",
+        "height": 70,
+        "weight": 4.0,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+        "evolution_chain": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ]
+    },
+    {
+        "name": "weepinbell",
+        "id": 70,
+        "sprite": "70.png",
+        "height": 100,
+        "weight": 6.4,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+        "evolution_chain": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ]
+    },
+    {
+        "name": "victreebel",
+        "id": 71,
+        "sprite": "71.png",
+        "height": 170,
+        "weight": 15.5,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+        "evolution_chain": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ]
+    },
+    {
+        "name": "tentacool",
+        "id": 72,
+        "sprite": "72.png",
+        "height": 90,
+        "weight": 45.5,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+        "evolution_chain": [
+            "tentacool",
+            "tentacruel"
+        ]
+    },
+    {
+        "name": "tentacruel",
+        "id": 73,
+        "sprite": "73.png",
+        "height": 160,
+        "weight": 55.0,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+        "evolution_chain": [
+            "tentacool",
+            "tentacruel"
+        ]
+    },
+    {
+        "name": "geodude",
+        "id": 74,
+        "sprite": "74.png",
+        "height": 40,
+        "weight": 20.0,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+        "evolution_chain": [
+            "geodude",
+            "graveler",
+            "golem"
+        ]
+    },
+    {
+        "name": "graveler",
+        "id": 75,
+        "sprite": "75.png",
+        "height": 100,
+        "weight": 105.0,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+        "evolution_chain": [
+            "geodude",
+            "graveler",
+            "golem"
+        ]
+    },
+    {
+        "name": "golem",
+        "id": 76,
+        "sprite": "76.png",
+        "height": 140,
+        "weight": 300.0,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+        "evolution_chain": [
+            "geodude",
+            "graveler",
+            "golem"
+        ]
+    },
+    {
+        "name": "ponyta",
+        "id": 77,
+        "sprite": "77.png",
+        "height": 100,
+        "weight": 30.0,
+        "types": [
+            "fire"
+        ],
+        "description": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+        "evolution_chain": [
+            "ponyta",
+            "rapidash"
+        ]
+    },
+    {
+        "name": "rapidash",
+        "id": 78,
+        "sprite": "78.png",
+        "height": 170,
+        "weight": 95.0,
+        "types": [
+            "fire"
+        ],
+        "description": "Very competitive, this POK\u00e9MON will chase anything that moves fast in the hopes of racing it.",
+        "evolution_chain": [
+            "ponyta",
+            "rapidash"
+        ]
+    },
+    {
+        "name": "slowpoke",
+        "id": 79,
+        "sprite": "79.png",
+        "height": 120,
+        "weight": 36.0,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "description": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+        "evolution_chain": [
+            "slowpoke",
+            "slowbro"
+        ]
+    },
+    {
+        "name": "slowbro",
+        "id": 80,
+        "sprite": "80.png",
+        "height": 160,
+        "weight": 78.5,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "description": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+        "evolution_chain": [
+            "slowpoke",
+            "slowbro"
+        ]
+    },
+    {
+        "name": "magnemite",
+        "id": 81,
+        "sprite": "81.png",
+        "height": 30,
+        "weight": 6.0,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "description": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+        "evolution_chain": [
+            "magnemite",
+            "magneton",
+            "magnezone"
+        ]
+    },
+    {
+        "name": "magneton",
+        "id": 82,
+        "sprite": "82.png",
+        "height": 100,
+        "weight": 60.0,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+        "evolution_chain": [
+            "magnemite",
+            "magneton",
+            "magnezone"
+        ]
+    },
+    {
+        "name": "farfetchd",
+        "id": 83,
+        "sprite": "83.png",
+        "height": 80,
+        "weight": 15.0,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+        "evolution_chain": [
+            "farfetchd",
+            "sirfetchd"
+        ]
+    },
+    {
+        "name": "doduo",
+        "id": 84,
+        "sprite": "84.png",
+        "height": 140,
+        "weight": 39.2,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+        "evolution_chain": [
+            "doduo",
+            "dodrio"
+        ]
+    },
+    {
+        "name": "dodrio",
+        "id": 85,
+        "sprite": "85.png",
+        "height": 180,
+        "weight": 85.2,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+        "evolution_chain": [
+            "doduo",
+            "dodrio"
+        ]
+    },
+    {
+        "name": "seel",
+        "id": 86,
+        "sprite": "86.png",
+        "height": 110,
+        "weight": 90.0,
+        "types": [
+            "water"
+        ],
+        "description": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+        "evolution_chain": [
+            "seel",
+            "dewgong"
+        ]
+    },
+    {
+        "name": "dewgong",
+        "id": 87,
+        "sprite": "87.png",
+        "height": 170,
+        "weight": 120.0,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+        "evolution_chain": [
+            "seel",
+            "dewgong"
+        ]
+    },
+    {
+        "name": "grimer",
+        "id": 88,
+        "sprite": "88.png",
+        "height": 90,
+        "weight": 30.0,
+        "types": [
+            "poison"
+        ],
+        "description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+        "evolution_chain": [
+            "grimer",
+            "muk"
+        ]
+    },
+    {
+        "name": "muk",
+        "id": 89,
+        "sprite": "89.png",
+        "height": 120,
+        "weight": 30.0,
+        "types": [
+            "poison"
+        ],
+        "description": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+        "evolution_chain": [
+            "grimer",
+            "muk"
+        ]
+    },
+    {
+        "name": "shellder",
+        "id": 90,
+        "sprite": "90.png",
+        "height": 30,
+        "weight": 4.0,
+        "types": [
+            "water"
+        ],
+        "description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+        "evolution_chain": [
+            "shellder",
+            "cloyster"
+        ]
+    },
+    {
+        "name": "cloyster",
+        "id": 91,
+        "sprite": "91.png",
+        "height": 150,
+        "weight": 132.5,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "description": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+        "evolution_chain": [
+            "shellder",
+            "cloyster"
+        ]
+    },
+    {
+        "name": "gastly",
+        "id": 92,
+        "sprite": "92.png",
+        "height": 130,
+        "weight": 0.1,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+        "evolution_chain": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ]
+    },
+    {
+        "name": "haunter",
+        "id": 93,
+        "sprite": "93.png",
+        "height": 160,
+        "weight": 0.1,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+        "evolution_chain": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ]
+    },
+    {
+        "name": "gengar",
+        "id": 94,
+        "sprite": "94.png",
+        "height": 150,
+        "weight": 40.5,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
+        "evolution_chain": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ]
+    },
+    {
+        "name": "onix",
+        "id": 95,
+        "sprite": "95.png",
+        "height": 880,
+        "weight": 210.0,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+        "evolution_chain": [
+            "onix",
+            "steelix"
+        ]
+    },
+    {
+        "name": "drowzee",
+        "id": 96,
+        "sprite": "96.png",
+        "height": 100,
+        "weight": 32.4,
+        "types": [
+            "psychic"
+        ],
+        "description": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+        "evolution_chain": [
+            "drowzee",
+            "hypno"
+        ]
+    },
+    {
+        "name": "hypno",
+        "id": 97,
+        "sprite": "97.png",
+        "height": 160,
+        "weight": 75.6,
+        "types": [
+            "psychic"
+        ],
+        "description": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
+        "evolution_chain": [
+            "drowzee",
+            "hypno"
+        ]
+    },
+    {
+        "name": "krabby",
+        "id": 98,
+        "sprite": "98.png",
+        "height": 40,
+        "weight": 6.5,
+        "types": [
+            "water"
+        ],
+        "description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+        "evolution_chain": [
+            "krabby",
+            "kingler"
+        ]
+    },
+    {
+        "name": "kingler",
+        "id": 99,
+        "sprite": "99.png",
+        "height": 130,
+        "weight": 60.0,
+        "types": [
+            "water"
+        ],
+        "description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+        "evolution_chain": [
+            "krabby",
+            "kingler"
+        ]
+    },
+    {
+        "name": "voltorb",
+        "id": 100,
+        "sprite": "100.png",
+        "height": 50,
+        "weight": 10.4,
+        "types": [
+            "electric"
+        ],
+        "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+        "evolution_chain": [
+            "voltorb",
+            "electrode"
+        ]
+    },
+    {
+        "name": "electrode",
+        "id": 101,
+        "sprite": "101.png",
+        "height": 120,
+        "weight": 66.6,
+        "types": [
+            "electric"
+        ],
+        "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+        "evolution_chain": [
+            "voltorb",
+            "electrode"
+        ]
+    },
+    {
+        "name": "exeggcute",
+        "id": 102,
+        "sprite": "102.png",
+        "height": 40,
+        "weight": 2.5,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+        "evolution_chain": [
+            "exeggcute",
+            "exeggutor"
+        ]
+    },
+    {
+        "name": "exeggutor",
+        "id": 103,
+        "sprite": "103.png",
+        "height": 200,
+        "weight": 120.0,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
+        "evolution_chain": [
+            "exeggcute",
+            "exeggutor"
+        ]
+    },
+    {
+        "name": "cubone",
+        "id": 104,
+        "sprite": "104.png",
+        "height": 40,
+        "weight": 6.5,
+        "types": [
+            "ground"
+        ],
+        "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+        "evolution_chain": [
+            "cubone",
+            "marowak"
+        ]
+    },
+    {
+        "name": "marowak",
+        "id": 105,
+        "sprite": "105.png",
+        "height": 100,
+        "weight": 45.0,
+        "types": [
+            "ground"
+        ],
+        "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+        "evolution_chain": [
+            "cubone",
+            "marowak"
+        ]
+    },
+    {
+        "name": "hitmonlee",
+        "id": 106,
+        "sprite": "106.png",
+        "height": 150,
+        "weight": 49.8,
+        "types": [
+            "fighting"
+        ],
+        "description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+        "evolution_chain": [
+            "tyrogue",
+            "hitmonlee"
+        ]
+    },
+    {
+        "name": "hitmonchan",
+        "id": 107,
+        "sprite": "107.png",
+        "height": 140,
+        "weight": 50.2,
+        "types": [
+            "fighting"
+        ],
+        "description": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+        "evolution_chain": [
+            "tyrogue",
+            "hitmonlee"
+        ]
+    },
+    {
+        "name": "lickitung",
+        "id": 108,
+        "sprite": "108.png",
+        "height": 120,
+        "weight": 65.5,
+        "types": [
+            "normal"
+        ],
+        "description": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+        "evolution_chain": [
+            "lickitung",
+            "lickilicky"
+        ]
+    },
+    {
+        "name": "koffing",
+        "id": 109,
+        "sprite": "109.png",
+        "height": 60,
+        "weight": 1.0,
+        "types": [
+            "poison"
+        ],
+        "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+        "evolution_chain": [
+            "koffing",
+            "weezing"
+        ]
+    },
+    {
+        "name": "weezing",
+        "id": 110,
+        "sprite": "110.png",
+        "height": 120,
+        "weight": 9.5,
+        "types": [
+            "poison"
+        ],
+        "description": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+        "evolution_chain": [
+            "koffing",
+            "weezing"
+        ]
+    },
+    {
+        "name": "rhyhorn",
+        "id": 111,
+        "sprite": "111.png",
+        "height": 100,
+        "weight": 115.0,
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+        "evolution_chain": [
+            "rhyhorn",
+            "rhydon",
+            "rhyperior"
+        ]
+    },
+    {
+        "name": "rhydon",
+        "id": 112,
+        "sprite": "112.png",
+        "height": 190,
+        "weight": 120.0,
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+        "evolution_chain": [
+            "rhyhorn",
+            "rhydon",
+            "rhyperior"
+        ]
+    },
+    {
+        "name": "chansey",
+        "id": 113,
+        "sprite": "113.png",
+        "height": 110,
+        "weight": 34.6,
+        "types": [
+            "normal"
+        ],
+        "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+        "evolution_chain": [
+            "happiny",
+            "chansey",
+            "blissey"
+        ]
+    },
+    {
+        "name": "tangela",
+        "id": 114,
+        "sprite": "114.png",
+        "height": 100,
+        "weight": 35.0,
+        "types": [
+            "grass"
+        ],
+        "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+        "evolution_chain": [
+            "tangela",
+            "tangrowth"
+        ]
+    },
+    {
+        "name": "kangaskhan",
+        "id": 115,
+        "sprite": "115.png",
+        "height": 220,
+        "weight": 80.0,
+        "types": [
+            "normal"
+        ],
+        "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+        "evolution_chain": [
+            "kangaskhan"
+        ]
+    },
+    {
+        "name": "horsea",
+        "id": 116,
+        "sprite": "116.png",
+        "height": 40,
+        "weight": 8.0,
+        "types": [
+            "water"
+        ],
+        "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+        "evolution_chain": [
+            "horsea",
+            "seadra",
+            "kingdra"
+        ]
+    },
+    {
+        "name": "seadra",
+        "id": 117,
+        "sprite": "117.png",
+        "height": 120,
+        "weight": 25.0,
+        "types": [
+            "water"
+        ],
+        "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+        "evolution_chain": [
+            "horsea",
+            "seadra",
+            "kingdra"
+        ]
+    },
+    {
+        "name": "goldeen",
+        "id": 118,
+        "sprite": "118.png",
+        "height": 60,
+        "weight": 15.0,
+        "types": [
+            "water"
+        ],
+        "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+        "evolution_chain": [
+            "goldeen",
+            "seaking"
+        ]
+    },
+    {
+        "name": "seaking",
+        "id": 119,
+        "sprite": "119.png",
+        "height": 130,
+        "weight": 39.0,
+        "types": [
+            "water"
+        ],
+        "description": "In the autumn spawning season, they can be seen swimming power\u00ad fully up rivers and creeks.",
+        "evolution_chain": [
+            "goldeen",
+            "seaking"
+        ]
+    },
+    {
+        "name": "staryu",
+        "id": 120,
+        "sprite": "120.png",
+        "height": 80,
+        "weight": 34.5,
+        "types": [
+            "water"
+        ],
+        "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+        "evolution_chain": [
+            "staryu",
+            "starmie"
+        ]
+    },
+    {
+        "name": "starmie",
+        "id": 121,
+        "sprite": "121.png",
+        "height": 110,
+        "weight": 80.0,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+        "evolution_chain": [
+            "staryu",
+            "starmie"
+        ]
+    },
+    {
+        "name": "mr-mime",
+        "id": 122,
+        "sprite": "122.png",
+        "height": 130,
+        "weight": 54.5,
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "description": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+        "evolution_chain": [
+            "mime-jr",
+            "mr-mime",
+            "mr-rime"
+        ]
+    },
+    {
+        "name": "scyther",
+        "id": 123,
+        "sprite": "123.png",
+        "height": 150,
+        "weight": 56.0,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "description": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+        "evolution_chain": [
+            "scyther",
+            "scizor"
+        ]
+    },
+    {
+        "name": "jynx",
+        "id": 124,
+        "sprite": "124.png",
+        "height": 140,
+        "weight": 40.6,
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+        "evolution_chain": [
+            "smoochum",
+            "jynx"
+        ]
+    },
+    {
+        "name": "electabuzz",
+        "id": 125,
+        "sprite": "125.png",
+        "height": 110,
+        "weight": 30.0,
+        "types": [
+            "electric"
+        ],
+        "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+        "evolution_chain": [
+            "elekid",
+            "electabuzz",
+            "electivire"
+        ]
+    },
+    {
+        "name": "magmar",
+        "id": 126,
+        "sprite": "126.png",
+        "height": 130,
+        "weight": 44.5,
+        "types": [
+            "fire"
+        ],
+        "description": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+        "evolution_chain": [
+            "magby",
+            "magmar",
+            "magmortar"
+        ]
+    },
+    {
+        "name": "pinsir",
+        "id": 127,
+        "sprite": "127.png",
+        "height": 150,
+        "weight": 55.0,
+        "types": [
+            "bug"
+        ],
+        "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+        "evolution_chain": [
+            "pinsir"
+        ]
+    },
+    {
+        "name": "tauros",
+        "id": 128,
+        "sprite": "128.png",
+        "height": 140,
+        "weight": 88.4,
+        "types": [
+            "normal"
+        ],
+        "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+        "evolution_chain": [
+            "tauros"
+        ]
+    },
+    {
+        "name": "magikarp",
+        "id": 129,
+        "sprite": "129.png",
+        "height": 90,
+        "weight": 10.0,
+        "types": [
+            "water"
+        ],
+        "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+        "evolution_chain": [
+            "magikarp",
+            "gyarados"
+        ]
+    },
+    {
+        "name": "gyarados",
+        "id": 130,
+        "sprite": "130.png",
+        "height": 650,
+        "weight": 235.0,
+        "types": [
+            "water",
+            "flying"
+        ],
+        "description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+        "evolution_chain": [
+            "magikarp",
+            "gyarados"
+        ]
+    },
+    {
+        "name": "lapras",
+        "id": 131,
+        "sprite": "131.png",
+        "height": 250,
+        "weight": 220.0,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+        "evolution_chain": [
+            "lapras"
+        ]
+    },
+    {
+        "name": "ditto",
+        "id": 132,
+        "sprite": "132.png",
+        "height": 30,
+        "weight": 4.0,
+        "types": [
+            "normal"
+        ],
+        "description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+        "evolution_chain": [
+            "ditto"
+        ]
+    },
+    {
+        "name": "eevee",
+        "id": 133,
+        "sprite": "133.png",
+        "height": 30,
+        "weight": 6.5,
+        "types": [
+            "normal"
+        ],
+        "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+        "evolution_chain": [
+            "eevee",
+            "vaporeon"
+        ]
+    },
+    {
+        "name": "vaporeon",
+        "id": 134,
+        "sprite": "134.png",
+        "height": 100,
+        "weight": 29.0,
+        "types": [
+            "water"
+        ],
+        "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+        "evolution_chain": [
+            "eevee",
+            "vaporeon"
+        ]
+    },
+    {
+        "name": "jolteon",
+        "id": 135,
+        "sprite": "135.png",
+        "height": 80,
+        "weight": 24.5,
+        "types": [
+            "electric"
+        ],
+        "description": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
+        "evolution_chain": [
+            "eevee",
+            "vaporeon"
+        ]
+    },
+    {
+        "name": "flareon",
+        "id": 136,
+        "sprite": "136.png",
+        "height": 90,
+        "weight": 25.0,
+        "types": [
+            "fire"
+        ],
+        "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+        "evolution_chain": [
+            "eevee",
+            "vaporeon"
+        ]
+    },
+    {
+        "name": "porygon",
+        "id": 137,
+        "sprite": "137.png",
+        "height": 80,
+        "weight": 36.5,
+        "types": [
+            "normal"
+        ],
+        "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+        "evolution_chain": [
+            "porygon",
+            "porygon2",
+            "porygon-z"
+        ]
+    },
+    {
+        "name": "omanyte",
+        "id": 138,
+        "sprite": "138.png",
+        "height": 40,
+        "weight": 7.5,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+        "evolution_chain": [
+            "omanyte",
+            "omastar"
+        ]
+    },
+    {
+        "name": "omastar",
+        "id": 139,
+        "sprite": "139.png",
+        "height": 100,
+        "weight": 35.0,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+        "evolution_chain": [
+            "omanyte",
+            "omastar"
+        ]
+    },
+    {
+        "name": "kabuto",
+        "id": 140,
+        "sprite": "140.png",
+        "height": 50,
+        "weight": 11.5,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+        "evolution_chain": [
+            "kabuto",
+            "kabutops"
+        ]
+    },
+    {
+        "name": "kabutops",
+        "id": 141,
+        "sprite": "141.png",
+        "height": 130,
+        "weight": 40.5,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "Its sleek shape is perfect for swim\u00ad ming. It slashes prey with its claws and drains the body fluids.",
+        "evolution_chain": [
+            "kabuto",
+            "kabutops"
+        ]
+    },
+    {
+        "name": "aerodactyl",
+        "id": 142,
+        "sprite": "142.png",
+        "height": 180,
+        "weight": 59.0,
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+        "evolution_chain": [
+            "aerodactyl"
+        ]
+    },
+    {
+        "name": "snorlax",
+        "id": 143,
+        "sprite": "143.png",
+        "height": 210,
+        "weight": 460.0,
+        "types": [
+            "normal"
+        ],
+        "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+        "evolution_chain": [
+            "munchlax",
+            "snorlax"
+        ]
+    },
+    {
+        "name": "articuno",
+        "id": 144,
+        "sprite": "144.png",
+        "height": 170,
+        "weight": 55.4,
+        "types": [
+            "ice",
+            "flying"
+        ],
+        "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
+        "evolution_chain": [
+            "articuno"
+        ]
+    },
+    {
+        "name": "zapdos",
+        "id": 145,
+        "sprite": "145.png",
+        "height": 160,
+        "weight": 52.6,
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+        "evolution_chain": [
+            "zapdos"
+        ]
+    },
+    {
+        "name": "moltres",
+        "id": 146,
+        "sprite": "146.png",
+        "height": 200,
+        "weight": 60.0,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "description": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+        "evolution_chain": [
+            "moltres"
+        ]
+    },
+    {
+        "name": "dratini",
+        "id": 147,
+        "sprite": "147.png",
+        "height": 180,
+        "weight": 3.3,
+        "types": [
+            "dragon"
+        ],
+        "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+        "evolution_chain": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ]
+    },
+    {
+        "name": "dragonair",
+        "id": 148,
+        "sprite": "148.png",
+        "height": 400,
+        "weight": 16.5,
+        "types": [
+            "dragon"
+        ],
+        "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+        "evolution_chain": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ]
+    },
+    {
+        "name": "dragonite",
+        "id": 149,
+        "sprite": "149.png",
+        "height": 220,
+        "weight": 210.0,
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+        "evolution_chain": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ]
+    },
+    {
+        "name": "mewtwo",
+        "id": 150,
+        "sprite": "150.png",
+        "height": 200,
+        "weight": 122.0,
+        "types": [
+            "psychic"
+        ],
+        "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+        "evolution_chain": [
+            "mewtwo"
+        ]
+    },
+    {
+        "name": "mew",
+        "id": 151,
+        "sprite": "151.png",
+        "height": 40,
+        "weight": 4.0,
+        "types": [
+            "psychic"
+        ],
+        "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+        "evolution_chain": [
+            "mew"
+        ]
+    }
+]
